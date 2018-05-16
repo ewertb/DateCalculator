@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateCalculator", "DateCalculator\DateCalculator.csproj", "{32761750-ECD1-4F97-8B7C-21F5572AFA4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateCalculatorTests", "DateCalculatorTests\DateCalculatorTests.csproj", "{8A458031-572C-4723-83F0-A4D24575B595}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32761750-ECD1-4F97-8B7C-21F5572AFA4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32761750-ECD1-4F97-8B7C-21F5572AFA4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32761750-ECD1-4F97-8B7C-21F5572AFA4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32761750-ECD1-4F97-8B7C-21F5572AFA4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A458031-572C-4723-83F0-A4D24575B595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A458031-572C-4723-83F0-A4D24575B595}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A458031-572C-4723-83F0-A4D24575B595}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A458031-572C-4723-83F0-A4D24575B595}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16AF7688-CFEB-4FCA-BC51-3CF7E93DD1EC}
+	EndGlobalSection
+EndGlobal
